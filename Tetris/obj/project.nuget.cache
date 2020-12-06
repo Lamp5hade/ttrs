@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecIbZNg1Ev5hKcPsbNCzf/C4HhD3xNndyr1Wv8J6F9ImrFlmTRgVBZihIzwZGJ6WWKJoCSd6PMh5bH/RnVCMBg==",
+  "success": true,
+  "projectFilePath": "D:\\SystemFolders\\Downloads\\codebattle-tetris-clients-master\\codebattle-tetris-clients-master\\CodeBattleNetCore\\Tetris\\Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProBr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

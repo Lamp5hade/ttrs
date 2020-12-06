@@ -1,0 +1,15 @@
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\obj\Debug\netcoreapp3.1\Tetris.csproj.CopyComplete
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
+D:\SystemFolders\Downloads\codebattle-tetris-clients-master\codebattle-tetris-clients-master\CodeBattleNetCore\Tetris\obj\Debug\netcoreapp3.1\Tetris.genruntimeconfig.cache
