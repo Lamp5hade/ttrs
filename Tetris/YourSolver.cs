@@ -83,16 +83,23 @@ namespace TetrisClient
 									+ (j1 + 1 < board.Size ? (!board.IsFree(i1, j1 + 1) && !Tetrimino.IsElementBlockValid(board.GetCurrentFigureType(), i2, j2 + 1, rot) ? 1000 : 0) : 0);
 							}
 						}
-
-						foreach(var line in Tetrimino.GetCompletedLines(locField))
+						var completedLines = Tetrimino.GetCompletedLines(locField);
+						foreach (var line in completedLines)
                         {
 							//Console.WriteLine(line);
-							if(line >= board.Size * (2 / 3))
+							if (line >= board.Size / 2)
                             {
 								curCost -= line * line;
 								continue;
 							}
-							curCost -= line;
+							if (completedLines.Count > 3)
+							{
+								curCost -= line;
+							}
+                            else
+                            {
+								curCost += line + 5;
+							}
 						}
 
 						if (curCost >= minCost) continue;
